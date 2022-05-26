@@ -1,4 +1,4 @@
-module github.com/tonistiigi/fsutil
+module github.com/SilverSoldier/fsutil
 
 go 1.13
 
